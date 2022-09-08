@@ -114,18 +114,19 @@ three_group = ["Age",
 all_group = "All"
 
 ca_interpretation = """ 
-					- Points that lie close to eachother indicate some form of similarity
-					- Points that lie far from one and other indicate some form of difference. You can usually draw interesting conclusions looking at the extreme points on the axis but also on the diagonals of the plot
-					- A row and column profile are probably negatively associated if they are on opposite sides of the origin 
-					- The further a point from the origin, the stronger their positive or negative association
-					- Remember you can expand the plot, download it as a .png, and zoom in and out to get a better view of the plot by clicking the toolbar in the upper right corner of the plot!
-					"""
+- Points that lie close to eachother indicate some form of similarity
+- Points that lie far from one and other indicate some form of difference. You can usually draw interesting conclusions looking at the extreme points on the axis but also on the diagonals of the plot
+- A row and column profile are probably negatively associated if they are on opposite sides of the origin 
+- The further a point from the origin, the stronger their positive or negative association
+- Remember you can expand the plot, download it as a .png, and zoom in and out to get a better view of the plot by clicking the toolbar in the upper right corner of the plot!
+"""
 
-pie_interpretation = """Some people hate on pie charts, especially epidemiologists, 
-					they claim bar charts are superior and pie charts are hard to read,
-					I like pie charts, and for this data they are perfect and visually pleasing. These
-					pie charts just show the proportion of respondents for each political party that the Correspondence Analysis above was based on.
-					"""
+pie_interpretation = """
+Some people hate on pie charts, especially epidemiologists, 
+they claim bar charts are superior and pie charts are hard to read,
+I like pie charts, and for this data they are perfect and visually pleasing. These
+pie charts just show the proportion of respondents for each political party that the Correspondence Analysis above was based on.
+"""
 
 if submenu == "About":
 	st.write("""
