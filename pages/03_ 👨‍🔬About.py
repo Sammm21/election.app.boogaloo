@@ -16,4 +16,4 @@ st.write("""
 
 		""")
 
-st.write("[Email](election.app.boogaloo@gmail.com)")
+st.write("election.app.boogaloo@gmail.com")
