@@ -119,6 +119,7 @@ ca_interpretation = """
 - A row and column profile are probably negatively associated if they are on opposite sides of the origin 
 - The further a point from the origin, the stronger their positive or negative association
 - Remember you can expand the plot, download it as a .png, and zoom in and out to get a better view of the plot by clicking the toolbar in the upper right corner of the plot!
+- (S) Socialdemokraterna, (M) Moderaterna, (SD) Sverigedemokraterna, (V) Vänsterpartiet, (C) Centerpartiet, (MP) Miljöpartiet, (KD) Kristdemokraterna, (L) Liberalerna, (ÖVR) Övrigapartier
 """
 
 pie_interpretation = """
