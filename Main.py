@@ -19,7 +19,7 @@ st.write("""
 
 		The colors I choose for the plots were chosen for interpretibility and their visual appeal (I wanted to make it look good and simple I tried giving each party it's own color but it looked to messy)
 		
-		[Comments and Criticisms](election.app.boogaloo@gmail.com) are more than welcome, I just started this project this week and have had to rush
+		Comments and Criticisms (election.app.boogaloo@gmail.com) are more than welcome, I just started this project this week and have had to rush
 		it to launch it before the weekend, so it's a work in progress. 
 		#### Datasource
 		- https://www.scb.se/publikation/47473
